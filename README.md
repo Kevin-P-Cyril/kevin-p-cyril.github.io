@@ -54,11 +54,12 @@ A sophisticated, editorial-style portfolio designed to showcase data analytics s
 **Kevin P Cyril** *Aspiring Data Analyst* [LinkedIn](https://www.linkedin.com/in/kevin-p-cyril-8aab052b8) | [GitHub](https://github.com/Kevin-P-Cyril)  
 [cite_start]Email: kevinpcyrilofficial@gmail.com [cite: 1]
 
-<img width="1366" height="768" alt="Home_page" src="https://github.com/user-attachments/assets/d9c3b98e-b8b9-4364-bf50-ba480be42f5e" />
-<img width="1366" height="768" alt="About_me" src="https://github.com/user-attachments/assets/4a868d5a-089a-4bbb-8078-7a9d76456cac" />
-<img width="1366" height="768" alt="Technical_Tools" src="https://github.com/user-attachments/assets/9924eae4-3eb7-48d8-9e0b-6707d48a3751" />
-<img width="1366" height="768" alt="Resume_view" src="https://github.com/user-attachments/assets/16d8accf-3bd7-4df8-837e-d180162b86de" />
-<img width="1366" height="768" alt="Contact" src="https://github.com/user-attachments/assets/6b66d4f2-c0ce-4c3a-9b5f-118aded1c50c" />
+<img width="1366" height="601" alt="Home_page" src="https://github.com/user-attachments/assets/48912014-5a61-4414-b7cf-b44573838d75" />
+<img width="1366" height="589" alt="About_me" src="https://github.com/user-attachments/assets/373ac8b5-df9e-4fd4-b1ba-eb95cda24d0c" />
+<img width="1366" height="600" alt="Technical_Tools" src="https://github.com/user-attachments/assets/3836c7f4-f976-46ad-b3c8-556dc1a14d42" />
+<img width="1366" height="597" alt="Resume_view" src="https://github.com/user-attachments/assets/a1f7e88c-1329-4158-a507-e0fcde47f4e4" />
+<img width="1366" height="599" alt="Contact" src="https://github.com/user-attachments/assets/7de3490c-5de0-4c90-9739-1ec1b2c151ea" />
+
 
 
 
